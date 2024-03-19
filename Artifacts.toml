@@ -1,69 +1,69 @@
 [[GAP_pkg_deepthought]]
 arch = "aarch64"
-git-tree-sha1 = "613a8995ee74639c337e77b95452f5f6389e1820"
+git-tree-sha1 = "b55c51e1900eeed0fd284724ed815d2267ddbf55"
 os = "macos"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "1b6e08a0bc3250cc11c3c7da17eed0fd3609e8f3557aec11854d4fc2140345a6"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.aarch64-apple-darwin.tar.gz"
+    sha256 = "24e7b88a400545a22e7e7ab7adb2a57dd2c5c73dd34456655c9ee14dfd84d8d5"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "aarch64"
-git-tree-sha1 = "bc8ba87e823b30d5fa0868d0f37f18585af8b11d"
+git-tree-sha1 = "640038825bfb075ded67d2fe822c9ab86d1d5362"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "d60697f28dcf2c1bad07e8fa425ec6bf5e2a9ef289d74c9250dbf8ed447bf7d1"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.aarch64-linux-gnu.tar.gz"
+    sha256 = "dedf01d9438c77b0648fb1abaede1683336b7205cbd2dfd4b62a2f9b291f88d2"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "aarch64"
-git-tree-sha1 = "7976b9f9bf71de2353fcc93809d74a8450c8a1d6"
+git-tree-sha1 = "e0619ecefe4b7fc3e79ba0f83de169718fad3a6f"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "0c7e06ca37d67f01bdf01a5382eb9cb8f86b86c7c0d8c4beed883f19a3747093"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.aarch64-linux-musl.tar.gz"
+    sha256 = "7031b2d07e56b6b2884d386b4bdf9c2ee144573ce7c4a7abccd1257fb59077e6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "powerpc64le"
-git-tree-sha1 = "9855413bf7014768f1273c1a853c7a439f8f14c2"
+git-tree-sha1 = "dd0e4a21fd5d90b74c3abadf63fcd7deffb97a8b"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "127174c775cfe1db187322ed83e5e29e56e155d736c7acc95e59b7b3a256d44c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "16ebf36e4fbc8370492ce526d41b0b334177522637bade553be92cdbe22a5a55"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "x86_64"
-git-tree-sha1 = "9e404fd83ebf9b25a4f220660ec27e10ad11899f"
+git-tree-sha1 = "bd8c716f3c9509fe9bb459005d354c105f0b92d7"
 os = "macos"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "a0dfd67b9ba73017084d77b7916d2ad757b25168b3992459cc6f0db989c7f719"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.x86_64-apple-darwin.tar.gz"
+    sha256 = "0655c098ad2fe36fdde8ba8255d16ad49c7312488acfdf3f3c63d5222c7c5233"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "x86_64"
-git-tree-sha1 = "4894724c4269a6a44a393437e2893be369be74e9"
+git-tree-sha1 = "0a008e60b52c39672cc36c47a12f9461e128534d"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "fbfb2841c0e63020a7231aeebf40c0d0de3c7b88d9d88a7a73be6191a7fc0e55"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.x86_64-linux-gnu.tar.gz"
+    sha256 = "198d0807ad8f2dd66ac2a98cfa711559f84beab72b0007abe3176dcb9aa034d7"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "x86_64"
-git-tree-sha1 = "9b2b18f00b67040a1cbd2342908473ab41fb6306"
+git-tree-sha1 = "b2754afcb0e150cb3bc602e663a41b993430e0fc"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "167332ff25c556b3d833d7721ec05bfa827063ebf46114ced6cf11dc3f210099"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.x86_64-linux-musl.tar.gz"
+    sha256 = "54411f910522e9134a1a4eb56793ecc558067c52e04c9a39dcb20df2f62b7694"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_deepthought]]
 arch = "x86_64"
-git-tree-sha1 = "d7b514de7f0b9614c87d6d5bc86e95bca70bc9e1"
+git-tree-sha1 = "5981fa79704816181911e9db78378691cbaaecd1"
 os = "freebsd"
 
     [[GAP_pkg_deepthought.download]]
-    sha256 = "10abe8c40f32fb48249a1114b0317cd418be627f900d057766a922194e503049"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.600+0/GAP_pkg_deepthought.v100.0.600.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "56563f29f3314ff8e9d136ef706897ec07e1908013afe412e2c7105ddb0cb301"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v100.0.601+0/GAP_pkg_deepthought.v100.0.601.x86_64-unknown-freebsd.tar.gz"
